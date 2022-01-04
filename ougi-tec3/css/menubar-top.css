@@ -48,7 +48,7 @@
 /*メニュー３つ目（SERVICE）*/
 #menubar-top li#menu3 {
 	position: absolute;
-	left: 36%;	/*左から36%の場所に配置*/
+	left: 40%;	/*左から36%の場所に配置*/
 	bottom: 7%;	/*下から8%の場所に配置*/
 	animation-delay: 0.4s;	/*0.4秒だけ遅れてアニメーションをスタートさせる設定*/
 }
