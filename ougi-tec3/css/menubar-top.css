@@ -42,14 +42,14 @@
 #menubar-top li#menu2 {
 	position: absolute;
 	left: 8%;	/*左から8%の場所に配置*/
-	top: 35%;	/*上から35%の場所に配置*/
+	top: 33%;	/*上から35%の場所に配置*/
 	animation-delay: 0.2s;	/*0.2秒だけ遅れてアニメーションをスタートさせる設定*/
 }
 /*メニュー３つ目（SERVICE）*/
 #menubar-top li#menu3 {
 	position: absolute;
 	left: 36%;	/*左から36%の場所に配置*/
-	bottom: 8%;	/*下から8%の場所に配置*/
+	bottom: 7%;	/*下から8%の場所に配置*/
 	animation-delay: 0.4s;	/*0.4秒だけ遅れてアニメーションをスタートさせる設定*/
 }
 /*メニュー４つ目（RECRUIT）*/
@@ -63,7 +63,7 @@
 #menubar-top li#menu5 {
 	position: absolute;
 	left: 15%;	/*左から15%の場所に配置*/
-	bottom: 12%;	/*下から12%の場所に配置*/
+	bottom: 20%;	/*下から12%の場所に配置*/
 	animation-delay: 0.8s;	/*0.8秒だけ遅れてアニメーションをスタートさせる設定*/
 }
 
